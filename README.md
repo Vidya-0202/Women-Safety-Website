@@ -1,14 +1,4 @@
-Great question — your README is **very important** because it explains your project clearly to teachers, evaluators, and recruiters.
 
-I’ll give you a **perfect README template** that you can directly copy and paste into GitHub 👇
-
----
-
-# ✅ 📄 BEST README FOR YOUR PROJECT
-
-Copy this and edit if needed:
-
-````markdown
 # 🌸 SafeHer - Women Safety Website
 
 ## 📌 Project Description
